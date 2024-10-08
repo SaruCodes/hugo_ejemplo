@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'MIRA DETRAS DE TI :)'
+
+theme= "relearn"
