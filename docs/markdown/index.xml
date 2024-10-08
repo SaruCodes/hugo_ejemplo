@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown :: MIRA DETRAS DE TI :)</title>
+    <link>http://localhost:43151/markdown/index.html</link>
+    <description>Titulos # Titulo1 ## Titulo2 ### Titulo3 #### Titulo4 ##### Titulo5 ####### Titulo6 ---- ### Negrita y fromato Para ver texto en negrita escribo ```markdown **texto en negrita* texto normal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 14:04:38 +0200</lastBuildDate>
+    <atom:link href="http://localhost:43151/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avanzado</title>
+      <link>http://localhost:43151/markdown/avanzado/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:04:38 +0200</pubDate>
+      <guid>http://localhost:43151/markdown/avanzado/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basico</title>
+      <link>http://localhost:43151/markdown/basico/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 14:04:20 +0200</pubDate>
+      <guid>http://localhost:43151/markdown/basico/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
